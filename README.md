@@ -7,14 +7,14 @@ A sleek, responsive scientific calculator built using HTML, CSS, and JavaScript.
 <hr>
 <br>
 <br>
-📌 Features
+📌 Features<br>
 ✅ Basic Operations (+, -, *, /)<br>
 ✅ Advanced Functions (sin, cos, tan, log, √, x²)<br>
 ✅ Dark/Light Mode Toggle (User preference saved in local storage)<br>
 ✅ History Panel (Displays past calculations, stored in local storage)<br>
 ✅ Fully Responsive (Calculator scales to 80% of viewport)<br>
 
-📷 Screen Themes
+📷 Screen Themes<br>
 🌙 Dark Mode:
 <br>
 ☀️ Light Mode:
@@ -32,6 +32,10 @@ JavaScript – Implements functionality & local storage<br>
 │── style.css    (Sleek UI Styling)
 │── script.js    (Calculator Functionality)
 │── README.md    (Project Documentation)
+<br>
+
+<br>
+🔗 **Live Demo:**  [https://ap-cloud1.github.io/Calculator_App/]  <br>
 <br>
 🚀 How to Run the Project?
 <br>
